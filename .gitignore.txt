@@ -1,0 +1,4 @@
+StrukturyDanychAlgorytmyKtoreMusiszZnac/
+venv/
+.idea/
+ALGO-DataStructures-PL-v3.pdf
